@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "about": "About",
+    "work": "Projects",
+    "focus": "Focus",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Personal profile",
+    "headline": "Purposeful technology. Ideas brought to life.",
+    "intro": "I'm Erick Cruz, a founder and developer interested in building useful, accessible, and trustworthy technology.",
+    "location": "Tampico, Tamaulipas, Mexico",
+    "primary": "Explore Kivoplix",
+    "secondary": "View projects",
+    "availability": "Open to professional conversations and collaborations"
+  },
+  "about": {
+    "eyebrow": "A vision in progress",
+    "title": "About me",
+    "paragraph1": "My path in technology began with cybersecurity and concern for people who lose control of their accounts or information. That concern was one of the reasons that led me to found Kexory.",
+    "paragraph2": "Today, my interests go beyond a single discipline: I want to learn, build products, and explore how software, infrastructure, and artificial intelligence can solve real problems.",
+    "paragraph3": "I take part in different parts of the process, from development and strategy to communication and content creation. I'm building experience one project at a time, with curiosity, judgment, and responsibility."
+  },
+  "principles": {
+    "eyebrow": "What guides me",
+    "title": "Technology should open possibilities, not create new barriers.",
+    "body": "I believe people should be able to benefit from useful, accessible, and secure technology. Trust, privacy, and human needs should be part of how we design and build products."
+  },
+  "kivoplix": {
+    "eyebrow": "Featured project",
+    "title": "Kivoplix",
+    "description": "A course platform in development, designed to make learning more accessible. Visit the existing page to learn about the project and its early-access option.",
+    "status": "In development",
+    "learn": "Explore Kivoplix",
+    "early": "Early access"
+  },
+  "projects": {
+    "eyebrow": "Work and experimentation",
+    "title": "Projects",
+    "description": "An editable selection of projects. The included examples are placeholders and should be replaced with real work before publishing.",
+    "view": "View details",
+    "demo": "Editable example"
+  },
+  "certificates": {
+    "eyebrow": "Continuous learning",
+    "title": "Certificates",
+    "description": "A space for verifiable learning. The current cards are editable examples, not real credentials.",
+    "view": "View certificate",
+    "demo": "Editable example"
+  },
+  "focus": {
+    "eyebrow": "Right now",
+    "title": "What I'm working on",
+    "items": [
+      { "title": "Kexory", "body": "Exploring and developing technology products with trust and security as design principles." },
+      { "title": "Kivoplix", "body": "Shaping a learning platform and validating its value proposition with users." },
+      { "title": "Learning and development", "body": "Expanding my skills in software, artificial intelligence, product, and technology communication." }
+    ]
+  },
+  "social": {
+    "eyebrow": "Digital presence",
+    "title": "Connect with me",
+    "description": "Find content and activity from Kexory on these platforms."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's talk technology.",
+    "description": "For professional conversations, ideas, or potential collaborations, you can email me.",
+    "button": "Send an email",
+    "kicker": "You can also explore the featured project"
+  },
+  "footer": {
+    "line": "Personal profile of Erick Cruz.",
+    "brand": "Kexory"
+  },
+  "modal": {
+    "close": "Close",
+    "technologies": "Technologies",
+    "status": "Status",
+    "repository": "Repository",
+    "certificateLink": "Official link",
+    "institution": "Institution",
+    "date": "Date",
+    "placeholder": "Replace this demo content with real information before publishing."
+  }
+}

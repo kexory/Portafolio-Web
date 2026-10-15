@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15171c"/><stop offset="1" stop-color="#08090b"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <circle cx="950" cy="110" r="260" fill="#fff" opacity=".025"/>
+  <circle cx="170" cy="620" r="300" fill="#fff" opacity=".025"/>
+  <text x="100" y="265" fill="#f7f7f8" font-family="Arial, sans-serif" font-size="78" font-weight="700">Erick Cruz</text>
+  <text x="104" y="335" fill="#a7a8af" font-family="Arial, sans-serif" font-size="30">Founder · Developer · Kexory</text>
+  <rect x="104" y="390" width="90" height="4" rx="2" fill="#e8e8ea"/>
+</svg>

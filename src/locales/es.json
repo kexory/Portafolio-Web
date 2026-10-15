@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "work": "Proyectos",
+    "focus": "Enfoque",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "eyebrow": "Perfil personal",
+    "headline": "Crear tecnología|en la que la gente|pueda confiar.",
+    "intro": "Soy Erick Cruz, fundador y desarrollador interesado en crear tecnología útil, accesible y confiable.",
+    "location": "Tampico, Tamaulipas, México",
+    "primary": "Acceso anticipado",
+    "secondary": "Ver proyectos",
+    "availability": "Abierto a conversaciones profesionales y colaboraciones"
+  },
+  "about": {
+    "eyebrow": "Una visión en construcción",
+    "title": "Sobre mí",
+    "paragraph1": "Mi camino en la tecnología comenzó con la ciberseguridad y la preocupación por las personas que pierden el control de sus cuentas o de su información. Esa inquietud fue una de las razones que me impulsó a fundar Kexory.",
+    "paragraph2": "Hoy mi interés va más allá de una sola disciplina: quiero aprender, desarrollar productos y explorar cómo el software, la infraestructura y la inteligencia artificial pueden resolver problemas reales.",
+    "paragraph3": "Me involucro en distintas partes del proceso, desde el desarrollo y la estrategia hasta la comunicación y la creación de contenido. Estoy construyendo experiencia proyecto a proyecto, con curiosidad, criterio y responsabilidad."
+  },
+  "principles": {
+    "eyebrow": "Lo que me guía",
+    "title": "La tecnología debe abrir posibilidades, no crear nuevas barreras.",
+    "body": "Creo que las personas deberían poder beneficiarse de tecnología útil, accesible y segura. La confianza, la privacidad y las necesidades humanas deben formar parte de cómo diseñamos y desarrollamos productos."
+  },
+  "kivoplix": {
+    "eyebrow": "Proyecto destacado",
+    "title": "Kivoplix",
+    "description": "Una plataforma de cursos en desarrollo, pensada para acercar el aprendizaje a más personas. Consulta la página existente para conocer el proyecto y su acceso anticipado.",
+    "status": "En desarrollo",
+    "learn": "Conocer Kivoplix",
+    "early": ""
+  },
+  "projects": {
+    "eyebrow": "Trabajo y experimentación",
+    "title": "Proyectos",
+    "description": "Una selección de proyectos y productos en los que trabajo.",
+    "view": "Ver detalles",
+    "demo": ""
+  },
+  "certificates": {
+    "eyebrow": "Aprendizaje continuo",
+    "title": "Certificados",
+    "description": "Formación y certificaciones.",
+    "view": "Ver certificado",
+    "demo": "CERTIFICADO"
+  },
+  "focus": {
+    "eyebrow": "Ahora mismo",
+    "title": "En qué estoy trabajando",
+    "items": [
+      {
+        "title": "Kexory",
+        "body": "Explorar y desarrollar productos tecnológicos con la confianza y la seguridad como criterios de diseño."
+      },
+      {
+        "title": "Kivoplix",
+        "body": "Dar forma a una plataforma de aprendizaje y validar su propuesta con usuarios."
+      },
+      {
+        "title": "Contenido y presencia digital",
+        "body": "Crear contenido tecnológico, fortalecer la identidad digital de Kexory y atraer a nuevas personas interesadas en Kivoplix."
+      }
+    ]
+  },
+  "social": {
+    "eyebrow": "Presencia digital",
+    "title": "Conecta conmigo",
+    "description": "Puedes encontrar contenido y actividad de Kexory en estas plataformas."
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Hablemos de tecnología.",
+    "description": "Para conversaciones profesionales, ideas o posibles colaboraciones, puedes escribirme por correo.",
+    "button": "Enviar correo",
+    "kicker": ""
+  },
+  "footer": {
+    "line": "Perfil personal de Erick Cruz.",
+    "brand": "Kexory"
+  },
+  "modal": {
+    "close": "Cerrar",
+    "technologies": "Tecnologías",
+    "status": "Estado",
+    "repository": "Repositorio",
+    "certificateLink": "Enlace oficial",
+    "institution": "Institución",
+    "date": "Fecha",
+    "placeholder": ""
+  }
+}
