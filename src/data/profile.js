@@ -5,7 +5,7 @@ export const profile = {
   location: "Tampico, Tamaulipas, México",
   email: "erickcruz.05dev@gmail.com",
   photo: "", // Si algún día usas retrato: "/images/erick-cruz.jpg"
-  logo: "/images/kexory-logo.svg",
+  logo: `${import.meta.env.BASE_URL}images/kexory-logo.svg`,
   kivoplix: {
     url: "https://kexory-pre-registration.netlify.app/",
     status: "En desarrollo"
