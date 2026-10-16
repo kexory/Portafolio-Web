@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://kexory.github.io/Portafolio-Web/sitemap.xml
